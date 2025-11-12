@@ -19,13 +19,12 @@ GitHub page for paper "Feasibility of synthesizing inner speech from ECoG using 
   </style>
 </head>
 <body>
-  <h1>Enhanced Synthesis of Passively Heard Speech from Electrocorticography Signals Using Image-to-Image Spectrogram Translation</h1>
-  <p class="authors">Hongsang Lee<sup>1</sup>, Jihun Hwang<sup>2</sup>, Kyungjun Kim<sup>3</sup>, Gyuwon Lee<sup>4</sup>, Chun Kee Chung<sup>5</sup> and Chang-Hwan Im<sup>1,2,3*</sup></p>
-  <p class="affiliations"><sup>1</sup>Department of Artificial Intelligence, Hanyang University, Republic of Korea</p>
-  <p class="affiliations"><sup>2</sup>Department of Electronic Engineering, Hanyang University, Republic of Korea</p>
-  <p class="affiliations"><sup>3</sup>Department of Biomedical Engineering, Hanyang University, Republic of Korea</p>
-  <p class="affiliations"><sup>4</sup>Department of Brain and Cognitive Sciences, Seoul National University College of Natural Sciences, Republic of Korea</p>
-  <p class="affiliations"><sup>5</sup>Neuroscience Research Institute, Seoul National University Medical Research Center, Republic of Korea</p>
+  <h1>Feasibility of synthesizing inner speech from ECoG using an autoencoder-based unsupervised learning</h1>
+  <p class="authors">Jihun Hwang<sup>a</sup>, Hongsang Lee<sup>b</sup>, Chun Kee Chung<sup>c</sup> and Chang-Hwan Im<sup>a,b,d*</sup></p>
+  <p class="affiliations"><sup>a</sup>Department of Electronic Engineering, Hanyang University, Republic of Korea</p>
+  <p class="affiliations"><sup>b</sup>Department of Artificial Intelligence, Hanyang University, Republic of Korea</p>
+  <p class="affiliations"><sup>c</sup>Neuroscience Research Institute, Seoul National University Medical Research Center, Republic of Korea</p>
+  <p class="affiliations"><sup>d</sup>Department of Biomedical Engineering, Hanyang University, Republic of Korea</p>
   
   <!-- 첫 번째 테이블 그룹 (P1) -->
   <div class="table-container">
@@ -34,72 +33,36 @@ GitHub page for paper "Feasibility of synthesizing inner speech from ECoG using 
       <thead>
         <tr>
           <th>Original</th>
-          <th>Initial Synthesis</th>
-          <th>Enhanced</th>
+          <th>Prediction</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td><audio controls><source src="P1/1_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/1_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/1_pix2pixHD.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P1_둘_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P1_둘_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
-          <td><audio controls><source src="P1/2_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/2_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/2_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P1/3_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/3_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/3_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P1/4_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/4_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/4_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P1/5_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/5_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/5_pix2pixHD.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P1_숨쉬다_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P1_숨쉬다_pre.wav" type="audio/wav"></audio></td>
         </tr>
       </tbody>
     </table>
     <table>
-      <caption>P1</caption>
+      <caption>P2</caption>
       <thead>
         <tr>
           <th>Original</th>
-          <th>Initial Synthesis</th>
-          <th>Enhanced</th>
+          <th>Prediction</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td><audio controls><source src="P1/6_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/6_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/6_pix2pixHD.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P2_발_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P2_발_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
-          <td><audio controls><source src="P1/7_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/7_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/7_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P1/8_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/8_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/8_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P1/9_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/9_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/9_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P1/10_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/10_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P1/10_pix2pixHD.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P2_친구_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P2_친구_pre.wav" type="audio/wav"></audio></td>
         </tr>
       </tbody>
     </table>
@@ -107,76 +70,40 @@ GitHub page for paper "Feasibility of synthesizing inner speech from ECoG using 
   <!-- 아래에 복제 구조 (P2) -->
   <div class="table-container">
     <table>
-      <caption>P2</caption>
+      <caption>P3</caption>
       <thead>
         <tr>
           <th>Original</th>
-          <th>Initial Synthesis</th>
-          <th>Enhanced</th>
+          <th>Prediction</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td><audio controls><source src="P2/1_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/1_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/1_pix2pixHD.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P3_코_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P3_코_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
-          <td><audio controls><source src="P2/2_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/2_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/2_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P2/3_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/3_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/3_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P2/4_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/4_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/4_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P2/5_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/5_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/5_pix2pixHD.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P3_의사_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P3_의사_pre.wav" type="audio/wav"></audio></td>
         </tr>
       </tbody>
     </table>
     <table>
-      <caption>P2</caption>
+      <caption>P4</caption>
       <thead>
         <tr>
           <th>Original</th>
-          <th>Initial Synthesis</th>
-          <th>Enhanced</th>
+          <th>Prediction</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td><audio controls><source src="P2/6_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/6_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/6_pix2pixHD.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P4_나_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P4_나_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
-          <td><audio controls><source src="P2/7_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/7_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/7_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P2/8_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/8_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/8_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P2/9_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/9_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/9_pix2pixHD.wav" type="audio/wav"></audio></td>
-        </tr>
-        <tr>
-          <td><audio controls><source src="P2/10_original.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/10_initial_synthesis.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="P2/10_pix2pixHD.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P4_아홉_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="P4_아홉_pre.wav" type="audio/wav"></audio></td>
         </tr>
       </tbody>
     </table>
