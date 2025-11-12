@@ -38,7 +38,7 @@ GitHub page for paper "Feasibility of synthesizing inner speech from ECoG using 
       </thead>
       <tbody>
         <tr>
-          <td><audio controls><source src="P1_둘_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="./P1_둘_ori.wav" type="audio/wav"></audio></td>
           <td><audio controls><source src="P1_둘_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
