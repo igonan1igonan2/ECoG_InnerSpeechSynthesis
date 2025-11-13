@@ -13,14 +13,14 @@ GitHub page for paper "Feasibility of synthesizing inner speech from ECoG using 
 ### P1
 | Original | Prediction |
 | :---: | :---: |
-| <audio controls><source src="[여기에 P1_two_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_ori.wav" type="audio/wav"></audio> |
-| <audio controls><source src="[여기에 P1_숨쉬다_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_pre.wav" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_pre.wav" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_숨쉬다_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_숨쉬다_pre.wav" type="audio/wav"></audio> |
 
 ### P2
 | Original | Prediction |
 | :---: | :---: |
-| <audio controls><source src="[여기에 P2_발_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_ori.wav" type="audio/wav"></audio> |
-| <audio controls><source src="[여기에 P2_친구_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_pre.wav" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_발_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_발_pre.wav" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_ori" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_pre.wav" type="audio/wav"></audio> |
 
 ### P3
 | Original | Prediction |
