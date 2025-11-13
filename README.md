@@ -33,7 +33,7 @@
       </thead>
       <tbody>
         <tr>
-          <td colspan='2'><th>둘 / Two / tul</th></td>
+          <td colspan='2'>둘 / Two / tul</td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P1_둘_ori.png"></td>
