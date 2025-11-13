@@ -20,16 +20,16 @@ GitHub page for paper "Feasibility of synthesizing inner speech from ECoG using 
 | Original | Prediction |
 | :---: | :---: |
 | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_발_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_발_pre.wav" type="audio/wav"></audio> |
-| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_ori" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_pre.wav" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_pre.wav" type="audio/wav"></audio> |
 
 ### P3
 | Original | Prediction |
 | :---: | :---: |
-| <audio controls><source src="[여기에 P3_코_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="/Assets/P3_코_pre.wav" type="audio/wav"></audio> |
-| <audio controls><source src="[여기에 P3_의사_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="[여기에 P3_의사_pre.wav의 Raw URL 삽입]" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P3_코_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P3_코_pre.wav" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P3_의사_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P3_의사_pre.wav" type="audio/wav"></audio> |
 
 ### P4
 | Original | Prediction |
 | :---: | :---: |
-| <audio controls><source src="[여기에 P4_나_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="[여기에 P4_나_pre.wav의 Raw URL 삽입]" type="audio/wav"></audio> |
-| <audio controls><source src="[여기에 P4_아홉_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="[여기에 P4_아홉_pre.wav의 Raw URL 삽입]" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P4_나_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P4_나_pre.wav" type="audio/wav"></audio> |
+| <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P4_아홉_ori.wav" type="audio/wav"></audio> | <audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P4_아홉_pre.wav" type="audio/wav"></audio> |
