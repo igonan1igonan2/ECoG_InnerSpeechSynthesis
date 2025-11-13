@@ -38,15 +38,15 @@
         </tr>
         <tr>
           <td><audio controls><source src="Assets/P1_둘_ori.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_pre.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P1_둘_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P1_숨쉬다_ori.png"></td>
           <td><img src="Assets/Img/P1_숨쉬다_pre.png"></td>
         </tr>
         <tr>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_숨쉬다_ori.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_숨쉬다_pre.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P1_숨쉬다_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P1_숨쉬다_pre.wav" type="audio/wav"></audio></td>
         </tr>
       </tbody>
     </table>
@@ -64,16 +64,16 @@
           <td><img src="Assets/Img/P2_발_pre.png"></td>
         </tr>
         <tr>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_발_ori.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_발_pre.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P2_발_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P2_발_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P2_친구_ori.png"></td>
           <td><img src="Assets/Img/P2_친구_pre.png"></td>
         </tr>
         <tr>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_ori.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P2_친구_pre.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P2_친구_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P2_친구_pre.wav" type="audio/wav"></audio></td>
         </tr>
       </tbody>
     </table>
@@ -95,16 +95,16 @@
           <td><img src="Assets/Img/P3_코_pre.png"></td>
         </tr>
         <tr>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P3_코_ori.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P3_코_pre.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P3_코_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P3_코_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P3_의사_ori.png"></td>
           <td><img src="Assets/Img/P3_의사_pre.png"></td>
         </tr>
         <tr>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P3_의사_ori.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P3_의사_pre.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P3_의사_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P3_의사_pre.wav" type="audio/wav"></audio></td>
         </tr>
       </tbody>
     </table>
@@ -122,16 +122,16 @@
           <td><img src="Assets/Img/P4_나_pre.png"></td>
         </tr>
         <tr>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P4_나_ori.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P4_나_pre.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P4_나_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P4_나_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P4_아홉_ori.png"></td>
           <td><img src="Assets/Img/P4_아홉_pre.png"></td>
         </tr>        
         <tr>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P4_아홉_ori.wav" type="audio/wav"></audio></td>
-          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P4_아홉_pre.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P4_아홉_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="Assets/P4_아홉_pre.wav" type="audio/wav"></audio></td>
         </tr>
       </tbody>
     </table>
