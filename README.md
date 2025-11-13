@@ -25,7 +25,7 @@ GitHub page for paper "Feasibility of synthesizing inner speech from ECoG using 
 ### P3
 | Original | Prediction |
 | :---: | :---: |
-| <audio controls><source src="[여기에 P3_코_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="[여기에 P3_코_pre.wav의 Raw URL 삽입]" type="audio/wav"></audio> |
+| <audio controls><source src="[여기에 P3_코_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="/Assets/P3_코_pre.wav" type="audio/wav"></audio> |
 | <audio controls><source src="[여기에 P3_의사_ori.wav의 Raw URL 삽입]" type="audio/wav"></audio> | <audio controls><source src="[여기에 P3_의사_pre.wav의 Raw URL 삽입]" type="audio/wav"></audio> |
 
 ### P4
