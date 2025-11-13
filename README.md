@@ -32,9 +32,7 @@
         </tr>
       </thead>
       <tbody>
-
         <th colspan='2'>둘 / Two / tul</th>
-
         <tr>
           <td><img src="Assets/Img/P1_둘_ori.png"></td>
           <td><img src="Assets/Img/P1_둘_pre.png"></td>
@@ -43,9 +41,7 @@
           <td><audio controls><source src="Assets/P1_둘_ori.wav" type="audio/wav"></audio></td>
           <td><audio controls><source src="Assets/P1_둘_pre.wav" type="audio/wav"></audio></td>
         </tr>
-
         <th colspan='2'>숨쉬다 / Breathe / sʰum ʃwida</th>
-
         <tr>
           <td><img src="Assets/Img/P1_숨쉬다_ori.png"></td>
           <td><img src="Assets/Img/P1_숨쉬다_pre.png"></td>
