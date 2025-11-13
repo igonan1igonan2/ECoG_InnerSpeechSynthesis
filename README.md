@@ -1,6 +1,3 @@
-# ECoG_InnerSpeechSynthesis
-
-<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
@@ -35,6 +32,10 @@
         </tr>
       </thead>
       <tbody>
+        <tr>
+          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_ori.wav" type="audio/wav"></audio></td>
+          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_pre.wav" type="audio/wav"></audio></td>
+        </tr>
         <tr>
           <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_ori.wav" type="audio/wav"></audio></td>
           <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_pre.wav" type="audio/wav"></audio></td>
