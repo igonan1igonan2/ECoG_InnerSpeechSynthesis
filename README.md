@@ -36,7 +36,7 @@
       </thead>
       <tbody>
         <tr>
-          <td><audio controls><source src="[/Assets/P1_둘_ori.wav](https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_ori.wav)" type="audio/wav"></audio></td>
+          <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_ori.wav" type="audio/wav"></audio></td>
           <td><audio controls><source src="https://github.com/igonan1igonan2/ECoG_InnerSpeechSynthesis/raw/main/Assets/P1_둘_pre.wav" type="audio/wav"></audio></td>
         </tr>
         <tr>
