@@ -33,12 +33,18 @@
       </thead>
       <tbody>
         <tr>
+          <td><th>둘 / Two / tul</th></td>
+        </tr>
+        <tr>
           <td><img src="Assets/Img/P1_둘_ori.png"></td>
           <td><img src="Assets/Img/P1_둘_pre.png"></td>
         </tr>
         <tr>
           <td><audio controls><source src="Assets/P1_둘_ori.wav" type="audio/wav"></audio></td>
           <td><audio controls><source src="Assets/P1_둘_pre.wav" type="audio/wav"></audio></td>
+        </tr>
+        <tr>
+          <td><th>숨쉬다 / Breathe / sʰum ʃwida</th></td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P1_숨쉬다_ori.png"></td>
@@ -60,12 +66,18 @@
       </thead>
       <tbody>
         <tr>
+          <td><th>발 / Foot / pal</th></td>
+        </tr>
+        <tr>
           <td><img src="Assets/Img/P2_발_ori.png"></td>
           <td><img src="Assets/Img/P2_발_pre.png"></td>
         </tr>
         <tr>
           <td><audio controls><source src="Assets/P2_발_ori.wav" type="audio/wav"></audio></td>
           <td><audio controls><source src="Assets/P2_발_pre.wav" type="audio/wav"></audio></td>
+        </tr>
+        <tr>
+          <td><th>친구 / Friend /	tsʰingu</th></td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P2_친구_ori.png"></td>
@@ -91,12 +103,18 @@
       </thead>
       <tbody>
         <tr>
+          <td><th>코 / Nose / kʰo</th></td>
+        </tr>
+        <tr>
           <td><img src="Assets/Img/P3_코_ori.png"></td>
           <td><img src="Assets/Img/P3_코_pre.png"></td>
         </tr>
         <tr>
           <td><audio controls><source src="Assets/P3_코_ori.wav" type="audio/wav"></audio></td>
           <td><audio controls><source src="Assets/P3_코_pre.wav" type="audio/wav"></audio></td>
+        </tr>
+        <tr>
+          <td><th>의사 / Doctor / ɯysʰa</th></td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P3_의사_ori.png"></td>
@@ -118,12 +136,18 @@
       </thead>
       <tbody>
         <tr>
+          <td><th>나 / Me / na</th></td>
+        </tr>
+        <tr>
           <td><img src="Assets/Img/P4_나_ori.png"></td>
           <td><img src="Assets/Img/P4_나_pre.png"></td>
         </tr>
         <tr>
           <td><audio controls><source src="Assets/P4_나_ori.wav" type="audio/wav"></audio></td>
           <td><audio controls><source src="Assets/P4_나_pre.wav" type="audio/wav"></audio></td>
+        </tr>
+        <tr>
+          <td><th>아홉 / Nine / ahop̚</th></td>
         </tr>
         <tr>
           <td><img src="Assets/Img/P4_아홉_ori.png"></td>
